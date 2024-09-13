@@ -1,2 +1,2 @@
 # imgs-PicGO
-My Imgs
+My Imgs for Blogs
